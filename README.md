@@ -30,3 +30,4 @@ Integrate AI into a user-friendly healthcare solution
 
 📢 Share this project with your friends who are into Data Science & Healthcare AI!
 # Healthcare_chatbot
+# Healthcare_bot
